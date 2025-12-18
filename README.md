@@ -1,1 +1,3 @@
-# responsive-blog-platform-189011
+# Project Repository
+
+This is the initial README file for the project.
